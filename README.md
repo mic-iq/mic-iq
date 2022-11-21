@@ -9,6 +9,8 @@
 ## About this repo.
 There is an app to manage develop projects in the folder /Proyecto-Final-P5
 There is another application that consists of a university application, it needs more work to do, but the basics work well. Is in /P5-ELearning-v2
+-->Other proyects<--
+I also prepare 2 little proyects, one is Typer-d, it is a single game that should give you more skills when you type, be aware of your keyboard :) , you can change the words that are in the array, it is easy to do... on the other hand, there is a ToDo list, which is a simple todo list, I don´t use a DB so whatever you write there will be erase when you close the web explorer..
 
 ## First of all,
  I haven't done alone, a few people work with me, you can reach them through theirs repo
